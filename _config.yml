@@ -1,3 +1,7 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-remote-theme
+gems:
+  - github-pages
+jekyll:
+  version: '>= 1.10.0'
