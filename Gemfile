@@ -1,2 +1,4 @@
-gem "jekyll-theme-yat-1.10.0"
+gem "jekyll-remote-theme"
+bundle install
+
 
